@@ -1,0 +1,34 @@
+#main{
+    font-style: italic ;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    color: black;
+
+
+}
+
+#image{
+    align: center;
+    border: 2px dotted;
+    border-color: indianred;
+    border-radius: 20px;
+    /*background-color: hotpink;*/
+    margin: 5px;
+}
+
+#semi{
+    border-style: groove;
+    border-width: 1px 3px;
+    border-color: grey;
+    border-radius: 30px;
+    margin: 0 30%;
+    background-color: ghostwhite;
+}
+
+#text{
+    border: 2px dashed;
+    border-color: red;
+    margin: 10px;
+    border-radius: 35px;
+
+}
